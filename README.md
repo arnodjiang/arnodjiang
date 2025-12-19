@@ -9,8 +9,6 @@ I am a M.S. student at Wuhan University supervised by **Prof. Wei Lu**, focusing
 
 🤝 Open to collaborations, research discussions, and exciting projects in AI and computer vision.
 
-![](arnodjiang.github.io)
-
 📧 Email: [jiangcj@whu.edu.cn]()
 
 <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=arnodjiang&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR">
