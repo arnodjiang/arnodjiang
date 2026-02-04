@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a M.S. student at Wuhan University supervised by **Prof. Wei Lu**, focusing on **multimodal models, AIGC Detection and Localization, and object detection**.🚀
+I am a M.S. student at Wuhan University, focusing on **multimodal models, AIGC Detection and Localization, and object detection**.🚀
 
 ### 🔍 About Me
 🎓 M.S. researcher passionate about exploring AI, CV, and MLLM Reasoning RL.
