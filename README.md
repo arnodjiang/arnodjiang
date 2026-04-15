@@ -1,9 +1,5 @@
 ### 🔍 About Me
-🎓 M.S. researcher passionate about exploring AI, CV, and MLLM Reasoning RL.
-
-🧠 Deeply interested in building intelligent systems that can understand and generate across modalities (e.g., text, tables, images, videos and code).
-
-🤝 Open to collaborations, research discussions, and exciting projects in AI and computer vision.
+🎓 I'am a researcher for CV, multimodel.
 
 📧 Email: [jiangcj@whu.edu.cn]()
 
